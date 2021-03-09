@@ -1,7 +1,6 @@
 {
   "name": "moova/laravel-passport-socialite",
   "description": "This is a Laravel passport grant for social. (Fork from larva package)",
-  "version":"1.0.0",
   "keywords": [
     "passport",
     "laravel",
