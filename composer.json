@@ -1,6 +1,7 @@
 {
-  "name": "larva/laravel-passport-socialite",
-  "description": "This is a Laravel passport grant for social.",
+  "name": "moova/laravel-passport-socialite",
+  "description": "This is a Laravel passport grant for social. (Fork from larva package)",
+  "version":"1.0.0",
   "keywords": [
     "passport",
     "laravel",
@@ -12,7 +13,7 @@
     "laravel/passport": "^5.0 || ^6.0 || ^7.0 || ^8.0 || ^9.0 || ^10.0",
     "illuminate/support": "^5.0 || ^6.0 || ^7.0 || ^8.0",
     "league/oauth2-server": "^6.0 || ^7.0 || ^8.0",
-    "larva/laravel-socialite": "^1.0"
+    "laravel/socialite": "^4.4"
   },
   "autoload": {
     "psr-4": {
